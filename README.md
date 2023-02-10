@@ -1,6 +1,4 @@
-# Huy Anh 's Porfolio
-
-# [Project 1: iFood Data Analyst Case]
+# [Project 1: Customer Insight]
 
 This is a project i did for practice and add to my porfolio.
 Tools are used for this project: PowerBI and Python
