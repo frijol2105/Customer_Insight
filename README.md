@@ -1,4 +1,4 @@
-# [Project 1: Customer Insight]
+# [Customer Insight]
 
 This is a personal project where i use RFM model and Correlation to define customer and understand their behavior purchasing 
 Tools are used for this project: PowerBI and Python
